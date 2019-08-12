@@ -5,4 +5,17 @@
     font-size: 14px;
     font-family: 'Blinker';
     border-radius: 5px;
+    font-weight: bold
+}
+
+.btn--default {
+    background-color: aliceblue
+}
+
+.btn--success {
+    background-color: green
+}
+
+.btn--danger {
+    background-color: crimson
 }
