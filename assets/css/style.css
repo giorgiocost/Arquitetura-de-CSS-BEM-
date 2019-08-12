@@ -1,0 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Blinker);
+.btn {
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-size: 14px;
+    font-family: 'Blinker';
+    border-radius: 5px;
+}
